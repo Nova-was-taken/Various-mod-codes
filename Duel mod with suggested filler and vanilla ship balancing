@@ -98,7 +98,7 @@ var vocabulary = [
   { text: "Mine", icon: "\u0044", key: "M" },
 ];
 this.options = {
-  map_name: "Vanilla changes v0.6.3", 
+  map_name: "Vanilla changes v0.6.4", 
   root_mode: "team",
   ships: adminTools,
   reset_tree: false,
