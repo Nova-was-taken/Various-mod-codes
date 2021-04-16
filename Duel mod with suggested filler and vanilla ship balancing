@@ -75,8 +75,8 @@ var adminTools = [
   Lux_607,
   //T7s
   Titanshot_701,
-  Bastion_703,
-  Sinistyte_704,
+  Sinistyte_703,
+  Bastion_704,
   Aries_705,
   ];
 var vocabulary = [
