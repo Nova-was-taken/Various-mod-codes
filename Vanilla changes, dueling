@@ -28,7 +28,7 @@ var stats_button = {
     { type: "text",position:[10,45,80,23],value:"STATS",color:"rgba(204, 221, 238, 0.8)"},
     { type: "text",position:[20,70,60,20],value:"[B]",color:"rgba(204, 221, 238, 0.8)"}
     ]
-};
+}; 
 
 var reset_button = {
   id: "reset",
