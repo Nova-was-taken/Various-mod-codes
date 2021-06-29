@@ -99,3 +99,14 @@ this.options = {
   //weapons_store: false,
 
 } ;
+
+this.tick = function(game) {
+  for (let ship of game.ships) {
+    if (!ship.custom.init) {
+      ship.instructorSays("In this event, please don't spam a very small number of ships, actually use variation, healing is disabled","Zoltar");
+      // if you want to hide it
+      setTimeout(ship.hideInstructor, 5000); // 5 seconds
+      ship.custom.init = true
+    }
+  }
+}
