@@ -89,10 +89,11 @@ this.options = {
   //custom_map: [],
   crystal_value: 2,
   station_crystal_capacity: 1.5,
+  healing_enabled: false,
   hues: [175,358],
   asteroids_strength: 1,
   friendly_colors: 2, 
-  survival_level: 8,
+  //survival_level: 8,
   //starting_ship: 800, //infinit lives
   speed_mod: 1.2,
   //weapons_store: false,
