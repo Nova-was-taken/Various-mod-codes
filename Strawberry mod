@@ -81,7 +81,6 @@ this.options = {
   map_size: 70,
   crystal_value: 2,
   station_crystal_capacity: 1.5,
-  healing_enabled: false,
   hues: [175,358],
   asteroids_strength: 1,
   friendly_colors: 2, 
