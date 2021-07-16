@@ -85,3 +85,4 @@ this.options = {
   asteroids_strength: 1,
   friendly_colors: 2, 
   speed_mod: 1.2,
+} ;
