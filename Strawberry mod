@@ -83,7 +83,7 @@ this.options = {
   station_crystal_capacity: 1.5,
   hues: [175,358],
   asteroids_strength: 1,
-  friendly_colors: 2, 
+  friendly_colors: 3, 
   speed_mod: 1.2,
 
 };
