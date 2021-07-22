@@ -71,17 +71,18 @@ var adminTools = [
   Aries_705,
   ];
 this.options = {
-  map_name: "Strawberry mode", 
+  map_name: "Strawberry mode", //rename obviosuly 
   root_mode: "team",
   ships: adminTools,
   reset_tree: false,
   max_players: 60,
   lives: 4,
-  map_id: 439,
+  map_id: 388,
   map_size: 70,
   crystal_value: 2,
+  healing_enabled: false, //does not need to stay
   station_crystal_capacity: 1.5,
-  hues: [175,358],
+  hues: [120,0,60],
   asteroids_strength: 1,
   friendly_colors: 3, 
   speed_mod: 1.2,
