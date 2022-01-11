@@ -96,8 +96,8 @@ var vocabulary = [
   {"text":"Sorry","icon":"\u00a1","key":"S"},
   {"text":"Upgrade","icon":"\u0061","key":"I"},
   {"text":"Heal","icon":"\u0038","key":"H"},
-  {"text":"Retreat","icon":"\u00b3","key":"J"},
-  {"text":"Group","icon":"\u00bd","key":"L"},
+  {"text":"Retreat","icon":"\u00b3","key":"L"},
+  {"text":"Group","icon":"\u00bd","key":"J"},
 ];
 
 this.options = {
