@@ -117,7 +117,7 @@ this.options = {
   speed_mod: 1.2
 };
 //the stuff below does not need to stay
-var kick_time = 9999999; // minutes
+var kick_time = 9999999999; // minutes
 
 kick_time *= 3600;
 this.tick = function(game) {
