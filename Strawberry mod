@@ -105,6 +105,7 @@ this.options = {
   root_mode: "team",
   ships: ships,
   lives: 4,
+  healing_ratio: 0.5,
   map_size: 70,
   crystal_value: 2,
   healing_enabled: true,
