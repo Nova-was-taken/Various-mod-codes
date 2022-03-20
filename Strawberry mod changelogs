@@ -189,3 +189,15 @@
 //T7:
 //* Rebalanced Sinistyte's stats, Shield capacity buffed to [350,350] from [300,300], shield regen nerfed to [11,11] from [12,12], energy regen buffed to [55,55] from [45,45], mass was nerfed to 300 from 350, rotation buffed to [80,80] from [70,70], acceleration buffed to [100,100] from [80,80], redid the main pulse damage from [170,170] to a pulse that does 50 damage at a firerate of 3, laser speed was buffed to [210,210] and recoil was removed
 //There was a remodel to fit the changed stats, making it a little smaller//
+//02/12/2022
+// Version 1.1.0
+//T4s:
+//Crusader remodel 
+//T5s:
+//* Replaced Slipknot with Syeclar with rebalancing, Shields nerfed to [220,280] from [235,315], energy capacity nerfed to [75,100] from [85,135] main pulse damage buffed to [45,60] from [35,50] and removed a side cannon
+//T6s:
+//A-speedsters energ regen nerfed to [38,57] from [38,62]
+//Buffed rock-towers mass to 550 from 450
+//Buffed Xenomorph's energy capacity to [120,170] from [100,130], nerfed energy regen to [30,40] from [30,45] 
+//T7s:
+//Buffed Sinistyte's energy capacity to [220,220] from [200,200] buffed energy regen to [60,60] from [55,55] buffed mass to 325 from 300, buffed rotation to [100,100] from [80,80], nerfed the intermost side cannons damage to [10,10] from [30,30] 
